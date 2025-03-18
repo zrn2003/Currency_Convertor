@@ -9,6 +9,9 @@ A simple currency converter application built with Python using the `tkinter` GU
 - Supports different base and target currencies.
 - Displays conversion results directly in the app.
 
+## Demo Image:
+   https://github.com/zrn2003/Currency_Convertor/blob/main/screenshot.png
+
 ## Requirements
 
 - Python 3.x
@@ -23,3 +26,5 @@ Follow these steps to set up the currency converter application on your machine:
 You can clone the repository using the following command:
 ```bash
 git clone https://github.com/zrn2003/Currency_Converter.git
+
+
