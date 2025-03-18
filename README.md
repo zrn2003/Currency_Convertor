@@ -13,7 +13,10 @@ A simple currency converter application built with Python using the `tkinter` GU
 
 - Python 3.x
 - `requests` library for fetching exchange rates.
-- `tkinter` library for creating the graphical interface (pre-installed with Python in most cases).
+- `tkinter` library for creating the graphical interface (pre-installed with Python in most cases
+
+## Screenshot
+![Currency_Convertor](Screenshot.png)
 
 ## Installation
 
